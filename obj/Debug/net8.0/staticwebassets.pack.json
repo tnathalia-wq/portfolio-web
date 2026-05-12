@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TarefaPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TarefaPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TarefaPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TarefaPortfolio.props",
+      "PackagePath": "build\\TarefaPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TarefaPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\TarefaPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TarefaPortfolio.props",
+      "PackagePath": "buildTransitive\\TarefaPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

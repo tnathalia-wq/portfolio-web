@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "LRNMW3BHgg7EwBK8imQJSZ5w7XXqxjJJ9elJs0kNeQA=",
+  "Source": "TarefaPortfolio",
+  "BasePath": "_content/TarefaPortfolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TarefaPortfolio\\wwwroot",
+      "Source": "TarefaPortfolio",
+      "ContentRoot": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\wwwroot\\",
+      "BasePath": "_content/TarefaPortfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TarefaPortfolio.styles.css",
+      "SourceId": "TarefaPortfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/TarefaPortfolio",
+      "RelativePath": "TarefaPortfolio.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TarefaPortfolio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TarefaPortfolio.bundle.scp.css",
+      "SourceId": "TarefaPortfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/TarefaPortfolio",
+      "RelativePath": "TarefaPortfolio.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TarefaPortfolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\wwwroot\\app.css",
+      "SourceId": "TarefaPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2024102020043\\source\\repos\\TarefaPortfolio\\wwwroot\\",
+      "BasePath": "_content/TarefaPortfolio",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
